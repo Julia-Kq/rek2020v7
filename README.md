@@ -26,7 +26,6 @@ h1 {color:rgb(138,164,183);}
 
 </style>
 <table border="2" width="2000">
-src img"C:\Users\LAPTOP\Desktop\strona_www_rekrutacja_2020 alt"500"
 
 <body>
 
