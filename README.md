@@ -20,7 +20,6 @@
 h1 {color:rgb(138,164,183);}
 .karta{background-color:#8AA4B7	 ;}
 .kot{color:rgb(25,165,111);}
-body(background-color:"#C9A2BF") ;}
 
 </style>
 
@@ -38,9 +37,9 @@ Medicum UJ w Krakowie;
  <li>jesteś ciekawy wykladów na Politechnice Rzeszowskiej i zajęć laboratoryjnych na KUL-u
 z biologii i chemii;
 <li>myślisz o przystąpieniu do egzaminu maturalnego z biologii, chemii, matematyki na poziomie
-rozszerzonym.</p>
+rozszerzonym.
 <p class="kot"><br><em>Przy rekrutacji do klasy 1B przedmioty punktowane to: jezyk polski, matematyka,
-jezyk obcy, historia/fizyka/biologia/geografia/chemia</em></br></p></center>
+jezyk obcy, historia/fizyka/biologia/geografia/chemia</em></p></center>
 
 
 
