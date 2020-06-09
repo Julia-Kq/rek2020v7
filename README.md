@@ -45,7 +45,7 @@ rozszerzonym.
 <p class="kot"><br><em>Przy rekrutacji do klasy 1B przedmioty punktowane to: jezyk polski, matematyka,
 jezyk obcy, historia/fizyka/biologia/geografia/chemia</em></br></p>
 
-<table class="tabelka" border="1" style="width:50%;">
+<table class="tabelka" border="1" style="width:50%;" bgcolor="#8AA4B7">
   <tbody> 
      <tr><td>j.polski</td><td>4</td><td>4</td><td>4</td><td>4</td><tr>
 	 <tr><td>j.angielski</td><td>3</td><td>3</td><td>3</td><td>3</td><tr>
