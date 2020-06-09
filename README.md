@@ -70,8 +70,7 @@ jezyk obcy, historia/fizyka/biologia/geografia/chemia</em></br></p>
 	 <tr><td>r_chemia</td><td>1</td><td>2</td><td>2</td><td>3;1dyr</td><tr>
 	 <tr><td>r_biologia</td><td>1</td><td>2</td><td>2</td><td>3;1dyr</td><tr>
 	 <tr><td>r_matematyka</td><td>2</td><td>1</td><td>3</td><td>3;1dyr</td><tr>
-  </tbody>
-</table>
+ 
 
 
 
