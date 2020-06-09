@@ -45,6 +45,35 @@ rozszerzonym.
 <p class="kot"><br><em>Przy rekrutacji do klasy 1B przedmioty punktowane to: jezyk polski, matematyka,
 jezyk obcy, historia/fizyka/biologia/geografia/chemia</em></br></p>
 
+<table border="1" style="width:20%;">
+  <tbody> 
+     <tr><td>j.polski</td><td>4</td><td>4</td><td>4</td><td>4</td><tr>
+	 <tr><td>j.angielski</td><td>3</td><td>3</td><td>3</td><td>3</td><tr>
+	 <tr><td>j.niemiecki</td><td>2(1j)</td><td>2(1j)</td><td>2(1j)</td><td>2(1j)</td><tr>
+	 <tr><td>j.francuski</td><td>2(1j)</td><td>2(1j)</td><td>2(1j)</td><td>2(1j)</td><tr>
+	 <tr><td>matematyka</td><td>3</td><td>4</td><td>3</td><td>4</td><tr>
+	 <tr><td>wf</td><td>3</td><td>3</td><td>3</td><td>3</td><tr>
+	 <tr><td>godz.wych</td><td>1</td><td>1</td><td>1</td><td>1</td><tr>
+	 <tr><td>biologia</td><td>1</td><td>2</td><td>1</td><td></td><tr>
+	 <tr><td>chemia</td><td>1</td><td>2</td><td>1</td><td></td><tr>
+	 <tr><td>geografia</td><td>1</td><td>2</td><td>1</td><td></td><tr>
+	 <tr><td>historia</td><td>2</td><td>2</td><td>2</td><td>2</td><tr>
+	 <tr><td>wos</td><td>1</td><td>1</td><td></td><td></td><tr>
+	 <tr><td>fizyka</td><td>1</td><td>1</td><td>2</td><td></td><tr>
+	 <tr><td>przedsięb.</td><td></td><td>1</td><td>1</td><td></td><tr>
+	 <tr><td>plastyka</td><td>1</td><td></td><td></td><td></td><tr>
+	 <tr><td>informatyka</td><td>1</td><td>1</td><td>1</td><td></td><tr>
+	 <tr><td>e_dla_bezp</td><td>1</td><td></td><td></td><td></td><tr>
+	 <tr><td>religia</td><td>2</td><td>2</td><td>2</td><td>2</td><tr>
+	 <tr><td>wych.rodz.</td><td>14r</td><td>14r</td><td>14r</td><td></td><tr>
+	 <tr><td>doradz.zaw.</td><td>2r</td><td>2r</td><td>3r</td><td>3r</td><tr>
+	 <tr><td>r_chemia</td><td>1</td><td>2</td><td>2</td><td>3;1dyr</td><tr>
+	 <tr><td>r_biologia</td><td>1</td><td>2</td><td>2</td><td>3;1dyr</td><tr>
+	 <tr><td>r_matematyka</td><td>2</td><td>1</td><td>3</td><td>3;1dyr</td><tr>
+  </tbody>
+</table>
+
+
 
 
 	
