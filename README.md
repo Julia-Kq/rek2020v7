@@ -31,8 +31,8 @@ h1 {color:rgb(138,164,183);}
 <body>
 
 
-<center><p class="karta"><big> <strong>1B</strong> - rozszerzone treści nauczania z <strong>biologii, chemii, matematyki</strong></p></big></center>
-<center><h2><p>Powinieneś wybrać klase o takim nachyleniu przedmiotowym, jeśli:</h2>
+<center><p class="karta"><big> <strong>1B</strong> - rozszerzone treści nauczania z <strong>biologii, chemii, matematyki</strong></big>
+<center><h2><p>Powinieneś wybrać klase o takim nachyleniu przedmiotowym, jeśli:
  <li>pragniesz studiować medycynę, stomatologię, farmację, <br>rehabilitację, technologię chemiczną,
 dietetykę, kosmetologię, biotechnologię, resocjalizację, weterynarię, <br>fizjoterapię na
 Uniwersytecie Medycznym w Warszawie, UM w Katowicach, <br>UM w Lublinie, w Collegium
@@ -42,14 +42,13 @@ Medicum UJ w Krakowie;
  <li>jesteś ciekawy wykladów na Politechnice Rzeszowskiej i zajęć laboratoryjnych na KUL-u
 z biologii i chemii;
 <li>myślisz o przystąpieniu do egzaminu maturalnego z biologii, chemii, matematyki na poziomie
-rozszerzonym.</p>
+rozszerzonym.
 <p class="kot"><br><em>Przy rekrutacji do klasy 1B przedmioty punktowane to: jezyk polski, matematyka,
-jezyk obcy, historia/fizyka/biologia/geografia/chemia</em></br></p></center>
+jezyk obcy, historia/fizyka/biologia/geografia/chemia</em></br></p>
 
 
 
 	
 	
-</body>
-</html>
+
 
