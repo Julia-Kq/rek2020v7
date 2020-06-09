@@ -20,6 +20,7 @@
 h1 {color:rgb(138,164,183);}
 .karta{background-color:#8AA4B7	 ;}
 .kot{color:rgb(25,165,111);}
+body(background-color:"#C9A2BF") ;}
 
 </style>
 
