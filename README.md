@@ -23,7 +23,7 @@ body{
 h1 {color:rgb(138,164,183);}
 .karta{background-color:#8AA4B7	 ;}
 .kot{color:rgb(25,165,111);}
-
+.tabelka{bgcolor="#8AA4B7";}
 </style>
 <table border="2" width="2000">
 
@@ -45,7 +45,7 @@ rozszerzonym.
 <p class="kot"><br><em>Przy rekrutacji do klasy 1B przedmioty punktowane to: jezyk polski, matematyka,
 jezyk obcy, historia/fizyka/biologia/geografia/chemia</em></br></p>
 
-<table border="1" style="width:20%;" bgcolor="#8AA4B7">
+<table class="tabelka" border="1" style="width:20%;" bgcolor="#8AA4B7">
   <tbody> 
      <tr><td>j.polski</td><td>4</td><td>4</td><td>4</td><td>4</td><tr>
 	 <tr><td>j.angielski</td><td>3</td><td>3</td><td>3</td><td>3</td><tr>
