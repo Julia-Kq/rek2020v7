@@ -1,5 +1,4 @@
 # rek2020v7
-<!DOCTYPE HTML>
 <html lang="pl">
 <head>
     <meta charset="utf-8"/>
