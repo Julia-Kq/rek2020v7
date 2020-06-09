@@ -40,4 +40,4 @@ z biologii i chemii;
 rozszerzonym.
 <p class="kot"><br><em>Przy rekrutacji do klasy 1B przedmioty punktowane to: jezyk polski, matematyka,
 jezyk obcy, historia/fizyka/biologia/geografia/chemia</em></p>
-src img"profil biol-chem-mat"
+
